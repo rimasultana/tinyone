@@ -2,3 +2,33 @@
 body{
     font-family: 'PT Sans', sans-serif;
 }
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+/* header area */
+
+.tiny-section{
+    background-color: #fbdb00;
+
+}
+.tiny-header-top{
+
+}
+.tiny-manu-icon{}
+.tiny-social-icon{}
+.tiny-social-icon ul{
+    display: flex;
+    justify-content: flex-end;
+}
+.tiny-social-icon ul li{}
+.tiny-social-icon ul li a{}
